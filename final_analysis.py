@@ -39,4 +39,4 @@ if __name__ == "__main__":
 
     ensembl_id = get_ensembl_id()
 
-print("ensemble_id")
+print(ensembl_id)
